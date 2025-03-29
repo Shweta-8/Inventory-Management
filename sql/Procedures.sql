@@ -1,6 +1,6 @@
 -- Creating procedures with Auto generating Alpha numeric IDS using seqqunces and user-defined functions.--- 
  
- --- Created a function for generating ID (COMMON FOR ALL PROCEDURE)--CREATE AUTO_ID
+--- Created a function for generating ID (COMMON FOR ALL PROCEDURE)--CREATE AUTO_ID
  
 CREATE FUNCTION CID ( @C AS CHAR(1),@I AS INT)
 RETURNS CHAR(5)

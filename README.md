@@ -1,4 +1,4 @@
-# Inventory Management System
+# Inventory Management System 
 
 ## Project Overview 🚀
 This project is a **SQL-based Inventory Management System** designed to efficiently track suppliers, products, stock, customers, and orders. The system leverages well-structured database tables, stored procedures, and triggers to automate stock management and ensure data consistency.

@@ -1,4 +1,4 @@
------1. Trigger to delete from stock table if the product is deleted from the Product table inventory.---
+----1. Trigger to delete from stock table if the product is deleted from the Product table inventory.---
 
 Create trigger TR_DEL_PRO
 ON Product
